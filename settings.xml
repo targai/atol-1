@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<cms_params Company="ИП Пример" INN="инн" KPP="">
-    <shop hostname="https://ваш_сайт/">
-    <access login="логин" password="пароль" group_code="группа"/>
+<cms_params Company="Торгаев Вадим Владимирович" INN="132202072109" KPP="">
+    <shop hostname="https://targai.com/">
+    <access login="targai-com" password="bQwU0bbaF" group_code="targai-com_5173"/>
 </shop>
 </cms_params>
